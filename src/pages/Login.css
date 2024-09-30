@@ -1,0 +1,22 @@
+.card-body-one{
+    margin-top: 5 ;
+    text-align: center;
+ }
+ .text{
+    display: 6;
+    margin-top: 3;
+    color: darkslategray;
+    font-size: 35px;
+ }
+ .btn{
+    padding: 10px;
+    width: 200px;
+    background-color: yellowgreen;
+    color: white;
+    font-family: sans-serif;
+    outline: none;
+    border: 2px solid yellowgreen;
+    border-radius: 20px;
+    font-size: larger;
+    cursor: pointer;
+ }
